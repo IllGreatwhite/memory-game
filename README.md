@@ -17,7 +17,7 @@ if you dont then they will return to their initial state. If you wish to restart
 At time of creation the game doesnt seem to have any bugs, if I discover any then i shall fix it immediatley, also if you discover a problem
 please get in touch and I will help you solve it. 
 
-## contribution:
+## Contribution:
 If you wish to use this code in your own program feel free to do so, I insist that you dont use this code if you are currently doing the project yourself,
 as that is cheating and no matter how tempting its better to learn yourself than copy somebody elses work.... plus there are way better projects out there
 than mine!!! 
